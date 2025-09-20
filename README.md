@@ -6,7 +6,14 @@ A beautiful, interactive Python/Tkinter simulator to visualize and explore 2D pr
 Change gravity, launch angle, wind, and velocity—see the animated projectile flight and key stats in real time!
 
 ---
+## Demo
 
+| ![demo1](img1.jpg) | ![demo2](img2.jpg) | ![demo3](img3.jpg) |
+|----------------------------|----------------------------|----------------------------|
+| ![demo4](img4.jpg) | ![demo5](img5.jpg) | ![demo6](img6.jpg) |
+
+All input values taken for velocity 45.0m/s and an angle of projection of 45 degrees
+---
 ## Features
 
 - Real-time, animated projectile trajectory
@@ -16,15 +23,6 @@ Change gravity, launch angle, wind, and velocity—see the animated projectile f
 - Visual terrain and clouds for planet themes
 - Large (1200×800) display area for impressive paths
 - Clear, beginner-friendly, well-commented Python code
-
----
-
-## Demo
-
-| ![demo1](img1.jpg) | ![demo2](img2.jpg) | ![demo3](img3.jpg) |
-|----------------------------|----------------------------|----------------------------|
-| ![demo4](img4.jpg) | ![demo5](img5.jpg) | ![demo6](img6.jpg) |
-
 ---
 
 ## Getting Started
