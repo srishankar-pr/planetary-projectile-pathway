@@ -21,9 +21,9 @@ Change gravity, launch angle, wind, and velocity—see the animated projectile f
 
 ## Demo
 
-| ![demo1](images/demo1.png) | ![demo2](images/demo2.png) | ![demo3](images/demo3.png) |
+| ![demo1](img1.jpg) | ![demo2](img2.jpg) | ![demo3](img3.jpg) |
 |----------------------------|----------------------------|----------------------------|
-| ![demo4](images/demo4.png) | ![demo5](images/demo5.png) | ![demo6](images/demo6.png) |
+| ![demo4](img4.jpg) | ![demo5](img5.jpg) | ![demo6](img6.jpg) |
 
 ---
 
